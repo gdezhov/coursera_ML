@@ -1,2 +1,2 @@
 # coursera_ML
- Mashine learning course 
+Machine learning course 
